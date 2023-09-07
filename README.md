@@ -8,4 +8,4 @@ A repository in preparation for a talk at the ESO Conference [*Spectral Fidelity
 ### 2. Place on the axes
 ### 3. Optional: Swap two topics (one swap per person)
 
-![Diagram showing topics that stellar spectroscopic surveys missed as a function of importance and urgency.](https://github.com/svenbuder/spectral_fidelity/blob/main/spectral_fidelity_priorities.png)
+![Diagram showing topics that stellar spectroscopic surveys missed as a function of importance and urgency.](https://github.com/svenbuder/spectral_fidelity/blob/main/figures/spectral_fidelity_priorities.png)
